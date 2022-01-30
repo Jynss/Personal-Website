@@ -61,6 +61,7 @@ hr {
     background-color: #F0C9B3;
     margin: 0;
     padding: 50px 0px;
+    width: 100%;
 }
 
 
@@ -74,6 +75,7 @@ hr {
     position: absolute;
     left: 200px;
     top: 350px;
+    width: 12%;
 
 }
 
@@ -81,6 +83,7 @@ hr {
     position: absolute;
     right: 350px;
     top: 20px;
+    width: 12%;
 
 }
 
@@ -179,4 +182,8 @@ text-decoration: none;
 .copy-right {
     color: #F8FAFD;
     padding-top: 20px;
+}
+
+.trees {
+    width: 50%;
 }
