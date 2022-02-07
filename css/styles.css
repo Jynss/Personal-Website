@@ -173,6 +173,7 @@ hr {
 .btn:hover {
 background: #B4AAA9;
 text-decoration: none;
+color: white;
 }
 
 .button {
